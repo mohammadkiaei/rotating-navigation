@@ -1,5 +1,5 @@
 # Rotating Navigation
-This is awsome and unique navigation you can use in your projects.<br/>
+This is an awesome and unique navigation you can use in your projects.<br/>
 See Unique navigation [ONLINE](https://mohammadkiaei.github.io/rotating-navigation/)
 <br/>
 <br/>
